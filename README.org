@@ -4,6 +4,6 @@ Aseprite file format parser
 
 |---------+-----------------------------------------------|
 | source  | git:https://gitlab.com/lockie/cl-aseprite.git |
-| commit  | 0b82268                                       |
+| commit  | 1061c3c                                       |
 | systems | cl-aseprite                                   |
 |---------+-----------------------------------------------|
